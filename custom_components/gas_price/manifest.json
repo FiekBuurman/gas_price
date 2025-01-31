@@ -2,7 +2,7 @@
   "domain": "gas_prices",
   "name": "Gas Prices",
   "codeowners": [
-    "@ludeeus"
+    "@FiekBuurman"
   ],
   "config_flow": true,
   "documentation": "https://github.com/FiekBuurman/gas_price",
