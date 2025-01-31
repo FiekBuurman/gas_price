@@ -1,9 +1,7 @@
 {
   "domain": "gas_prices",
   "name": "Gas Prices",
-  "codeowners": [
-    "@FiekBuurman"
-  ],
+  "codeowners": ["@FiekBuurman"],
   "config_flow": true,
   "documentation": "https://github.com/FiekBuurman/gas_price",
   "iot_class": "cloud_polling",
